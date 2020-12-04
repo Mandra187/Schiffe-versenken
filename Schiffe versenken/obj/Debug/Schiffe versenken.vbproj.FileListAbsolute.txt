@@ -1,0 +1,34 @@
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\bin\Debug\Schiffe versenken.exe.config
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\bin\Debug\Schiffe versenken.exe
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\bin\Debug\Schiffe versenken.pdb
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\bin\Debug\Schiffe versenken.xml
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.vbprojAssemblyReference.cache
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.Resources.resources
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.vbproj.GenerateResource.cache
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.vbproj.CoreCompileInputs.cache
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.exe
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.xml
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.pdb
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.Startform.resources
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.MainForm.resources
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.FormStart.resources
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.Server.resources
+C:\Users\bankse\source\repos\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.User.resources
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\bin\Debug\Schiffe versenken.exe.config
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\bin\Debug\Schiffe versenken.exe
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.vbprojAssemblyReference.cache
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.MainForm.resources
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.FormStart.resources
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.Resources.resources
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.Server.resources
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.Startform.resources
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.User.resources
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.vbproj.GenerateResource.cache
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.vbproj.CoreCompileInputs.cache
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.exe
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.xml
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe versenken.pdb
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\bin\Debug\Schiffe versenken.pdb
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\bin\Debug\Schiffe versenken.xml
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.LoadingForm.resources
+G:\VI\VIP\Mitarbeiter\bankse\Übungsprojekte\Schiffe versenken\Schiffe versenken\obj\Debug\Schiffe_versenken.Diffie.resources
